@@ -1,1 +1,2 @@
 check: helloFromConfigServer
+server_check: it_works
